@@ -1,0 +1,27 @@
+instalacion 
+	jdk version estable de java(tb se descarga el jre con el jdk (verifica en consola))
+	instalacion de ide apache netbeans 
+	instalacion de node , npm , angular cli 
+	instalacion de ide visual studio code 
+	mysql workbench
+
+inicio de proyecto con spring initializr
+	configuraciones predeterminadas con version 17 de java
+	dependencias instaladas 
+		spring web (no debe faltar)
+		lombok 
+		spring boot devtools
+	generar proyecto 
+
+abrir proyecto con netbeans
+	(apareera un cartel donde dice que faltan cosas , descargar archivos con resolv )
+	en source packages , se encuentra el ejecutable .jar
+	en el ejecutable hacer clic secundario - run 
+	para poder ver lo que hace , se abre en el navegador con localhost:(puerto dispuesto 		en mi caso 8080)
+	aparecera una pagina con error (es normal porque no tiene nada)
+
+
+
+		
+	
+	
